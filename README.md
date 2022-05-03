@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @psmith50.  You can call me Parker
 - 👀 I’m interested in a lot of things!
+-   Currently training for a marathon, how to bake homemade bread, and the next electronic show to attend!
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on [The Odin Project](theodinproject.com/)
 - 📫 How to reach me [psmith.dev](psmith.dev/)
